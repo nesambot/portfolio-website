@@ -232,9 +232,9 @@ section .title::after{
 .about .about-content .right .text span{
     color: crimson;
 }
-/* .about .about-content .right p{
-    text-align: justify;
-} */
+.about .about-content .right p{
+    text-align: left;
+}
 .about .about-content .right a{
     display: inline-block;
     background: crimson;
@@ -273,9 +273,9 @@ section .title::after{
     font-weight: 500;
     margin-bottom: 10px;
 }
-/* .skills .skills-content .left p{
-    text-align: justify;
-} */
+.skills .skills-content .left p{
+    text-align: left;
+}
 .skills .skills-content .left a{
     display: inline-block;
     background: crimson;
